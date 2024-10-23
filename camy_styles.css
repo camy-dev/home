@@ -18,6 +18,9 @@ body {
    max-width: 1500px;     
    width: 100%;
 }
+body p {
+   margin-left: 10px;
+}
 .logo {
    display: flex;
    justify-content: center;
@@ -44,7 +47,9 @@ header {
    background: linear-gradient(to right, rgb(251, 166, 254) 20%, rgb(73, 3, 86));
    border-bottom: 1px solid rgb(80, 3, 86);
 }
-
+h1 {
+   margin-left: 10px;
+}
 header img#logoimg {
    display: block;
    margin: 0px auto;
