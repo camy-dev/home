@@ -32,7 +32,7 @@ body p {
        height: auto;
    }
 
-   #rumble_v5h39yl{
+   video {
        width: 800px;
        margin: 0 auto;
        padding: 20px;
@@ -103,6 +103,12 @@ footer::after {
    display: table;
    content: "";
    clear: both;
+}
+
+#rumble_v5h39yl{
+   width: 800px;
+   margin: 0 auto;
+   padding: 20px;
 }
 
 /* ===============================
