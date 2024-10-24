@@ -7,8 +7,7 @@ html {
 }
 
 body {
-   font-family: Arial, sans-serif;
-   background-color: rgb(213, 241, 255);
+   background-color: rgb(242, 213, 255);
    box-shadow: rgb(51, 51, 51) 10px 0px 40px, rgb(51, 51, 51) -10px 0px 40px;
    border-left: 1px solid rgb(149, 8, 128);
    border-right: 1px solid rgb(85, 3, 86);
@@ -19,6 +18,7 @@ body {
    width: 100%;
 }
 body p {
+   font-size: 1.2em;
    margin-left: 10px;
 }
 .logo {
