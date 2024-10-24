@@ -32,14 +32,15 @@ body p {
        height: auto;
    }
 
-   video {
-       width: 800px;
-       margin: 0 auto;
-       padding: 20px;
-   }
             .twitter-follow-button {
    margin-left: 20px;
 } 
+
+video {
+   width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+}
 
 /* Header styles */
 
