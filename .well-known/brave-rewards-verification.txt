@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: camy.games
-Token: 1fe0361e09b71cadde46eb908f61caf2011dea48ef0600c5e6685d7e666fa2c5
+Token: dfcecdce65c022453f7326552747375cd81d841a7b270bb4042d3cac8422e69f
