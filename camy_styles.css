@@ -119,7 +119,12 @@ footer::after {
 */
 @media only screen and (max-width: 640px) {
 
-   
+   #livePlayergameVids video {
+   width: 640px;
+   margin: 0 auto;
+   padding: 20px;
+   }
+  
    a#navicon {
       display: block;
    }
