@@ -111,7 +111,7 @@ iframe{
    width: 1280px;
    height: 720px;
    margin: 0 auto;
-   justify-content: left;
+   justify-content: center;
 }
 
 /* ===============================
@@ -124,7 +124,7 @@ iframe{
    width: 640px;
    height: 360px;
    margin: 0 auto;
-   justify-content: left;
+   justify-content: center;
 }
   
    a#navicon {
