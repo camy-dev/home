@@ -14,8 +14,7 @@ body {
    border-right: 1px solid rgb(85, 3, 86);
    min-height: 100%;   
    margin: 0px auto;
-   min-width: 800px;
-   max-width: 1500px;     
+   min-width: 800px;  
    width: 100%;
 }
 body p {
