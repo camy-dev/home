@@ -109,7 +109,7 @@ footer::after {
 iframe{
    width: 100%;
    max-width: 1280px;
-   height: auto;
+   height: 720px;
    margin: 0 auto;
    display: block;
 }
