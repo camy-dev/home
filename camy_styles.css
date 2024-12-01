@@ -14,7 +14,6 @@ body {
    border-right: 1px solid rgb(85, 3, 86);
    min-height: 100%;   
    margin: 0px auto;
-   max-width: 1500px;  
    width: 100%;
 }
 body p {
@@ -107,9 +106,8 @@ footer::after {
 }
 
 iframe{
-   max-width: 1280px;
-   width: 100%;
-   height: auto;
+   width: 1280px;
+   height: 720px;
    margin: 0 auto;
    display: block;
 }
@@ -121,8 +119,8 @@ iframe{
 @media only screen and (max-width: 640px) {
 
    iframe{
-   width: 100%;
-   height: auto;
+   width: 640px;
+   height: 360px;
    margin: 0 auto;
    justify-content: center;
 }
